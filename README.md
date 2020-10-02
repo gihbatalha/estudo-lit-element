@@ -5,6 +5,7 @@
 ---
 
     $ cd app
+    $ npm install
     $ npm start
 
 Será  iniciado na porta 9000
